@@ -1,0 +1,26 @@
+h1 {
+  color: #b3b3cc;
+  text-align: center;
+  font-family: sans-serif;
+  font-weight: lighter;
+}
+
+h2 {
+  color: #bfbfbf;
+  text-align: center;
+  font-family: sans-serif;
+  font-weight: lighter;
+}
+
+ul {
+  color: white;
+  font-family:sans-serif;
+}
+
+a {
+  color: #cce6ff;
+}
+
+
+#navbar li { width: 200px;
+  display: inline-block; }
