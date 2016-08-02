@@ -12,15 +12,45 @@ h2 {
   font-weight: lighter;
 }
 
-ul {
-  color: white;
-  font-family:sans-serif;
-}
-
 a {
   color: #cce6ff;
 }
 
+div#mainblock {
+  color: white;
+  font-family:sans-serif;
+  margin: 20px;
+  padding: 20px;
+  text-align: center;
+}
 
-#navbar li { width: 200px;
-  display: inline-block; }
+div#bl1 {
+  float: left;
+  width: 20%;
+}
+
+div#bl2 {
+ float: left;
+  width: 20%;
+}
+
+div#bl3 {
+  float: left;
+  width: 20%;
+}
+
+div#bl4 {
+  float: left;
+  width: 20%;
+}
+
+div#bl5 {
+  float: left;
+  width: 20%;
+}
+
+div#homeimage {
+  border: 2px white solid;
+  text-align: center;
+
+}
